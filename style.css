@@ -1,3 +1,19 @@
 body {
-    background-color: brown;
+    background-color: #cc55ee;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: aliceblue;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }

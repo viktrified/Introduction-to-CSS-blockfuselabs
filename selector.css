@@ -1,0 +1,65 @@
+#container {
+    background-color: blueviolet;
+}
+
+#unique {
+    background-color: palevioletred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#para-one {
+    color: yellow;
+}
+
+#para-two {
+    color: maroon;
+}
+
+#para-three {
+    color: palegreen;
+}
+
+#para-four {
+    color: orangered;
+}
+
+#para-five {
+    color:olivedrab;
+}
+
+#para-one, #para-two, #para-three, #para-four, #para-five {
+    font-size: 30px;
+}
+
+.container {
+    background-color: moccasin;
+}
+
+.unique {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container > .group-one {
+    color: pink;
+}
+
+.group-one {
+    color: red
+}
+
+.group-two {
+    color: aqua;
+}
+
+.group-three {
+    color: darkolivegreen;
+}
+
+.group-four {
+    color: tomato;
+}
+
+.container > .another-class {
+    color: green;
+}
